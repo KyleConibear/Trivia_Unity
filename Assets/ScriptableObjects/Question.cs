@@ -6,5 +6,6 @@ using UnityEngine;
 public class Question : ScriptableObject
 {
     public string question = "This is question?";
+
     public Answer[] answers = null;
 }
