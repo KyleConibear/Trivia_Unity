@@ -6,7 +6,5 @@ using UnityEngine;
 public class Answer : ScriptableObject
 {
     public string answer = "This is an answer";
-    public bool isCorrect = false;
-
-    
+    public bool isCorrect = false;    
 }

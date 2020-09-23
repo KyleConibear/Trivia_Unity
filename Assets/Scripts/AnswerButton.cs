@@ -10,7 +10,6 @@ public class AnswerButton : MonoBehaviour
 
     private void Awake()
     {
-        Debug.Log("Answer Button Awake");
         answerText = this.transform.GetComponentInChildren<Text>();
     }
 
